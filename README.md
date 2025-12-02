@@ -8,4 +8,3 @@
 - but for now i thought id push this here and come back to it later 
 
 
-- chris
